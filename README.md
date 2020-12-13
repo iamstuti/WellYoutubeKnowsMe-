@@ -16,7 +16,7 @@ In this I look at a few things:
 
 ## **TO-DO**
 
-Incorporate my likes history and comapre wordclouds and do other analysis on the same.
+  [] Incorporate my likes history and comapre wordclouds and do other analysis on the same.
 
 ## **Instructions to run**
 
